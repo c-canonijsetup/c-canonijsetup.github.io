@@ -1,6 +1,6 @@
 #  Canon.com/ijsetup
 
-[![Canon.com/ijsetup](Get-Started-Now-Button-PNG-Pic.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![Canon.com/ijsetup](get-start.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
 Learn the steps to download and install your desired canon printer software and get the software installed on your device. Visit canon printer official website: **[canon.com/ijsetup](https://c-canonijsetup.github.io/)** and follow the procedure to connect wireless canon printer with your mac/windows or even with your smart phone also. Follow the steps carefully and use it today for your printing needs.
 
